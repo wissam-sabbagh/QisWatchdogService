@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Source\\Traffic\\BusLine\\QisWatchdogService\\QisWatchdogService\\QisWatchdogService\\QisWatchdogService.csproj": {}
+  },
+  "projects": {
+    "D:\\Source\\Traffic\\BusLine\\QisWatchdogService\\QisWatchdogService\\QisWatchdogService\\QisWatchdogService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\Traffic\\BusLine\\QisWatchdogService\\QisWatchdogService\\QisWatchdogService\\QisWatchdogService.csproj",
+        "projectName": "QisWatchdogService",
+        "projectPath": "D:\\Source\\Traffic\\BusLine\\QisWatchdogService\\QisWatchdogService\\QisWatchdogService\\QisWatchdogService.csproj",
+        "packagesPath": "C:\\Users\\wissam\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\Traffic\\BusLine\\QisWatchdogService\\QisWatchdogService\\QisWatchdogService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wissam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Serilog.Enrichers.Process": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Serilog.Enrichers.Thread": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.120\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

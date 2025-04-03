@@ -1,0 +1,76 @@
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\appsettings.Development.json
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\appsettings.json
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\QisWatchdogService.exe
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\RestartService.bat
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\QisWatchdogService.deps.json
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\QisWatchdogService.runtimeconfig.json
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\QisWatchdogService.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\QisWatchdogService.pdb
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Microsoft.Extensions.Hosting.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.AspNetCore.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Enrichers.Environment.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Enrichers.Process.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Enrichers.Thread.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Extensions.Hosting.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Extensions.Logging.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Formatting.Compact.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Settings.Configuration.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Sinks.Console.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Sinks.Debug.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Sinks.File.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\System.ServiceProcess.ServiceController.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.csproj.AssemblyReference.cache
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.AssemblyInfoInputs.cache
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.AssemblyInfo.cs
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.csproj.CoreCompileInputs.cache
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.csproj.CopyComplete
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\refint\QisWatchdogService.dll
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.pdb
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.genruntimeconfig.cache
+C:\My Projects\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\ref\QisWatchdogService.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\appsettings.Development.json
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\appsettings.json
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\QisWatchdogService.exe
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\RestartService.bat
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\QisWatchdogService.deps.json
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\QisWatchdogService.runtimeconfig.json
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\QisWatchdogService.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\ref\QisWatchdogService.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\QisWatchdogService.pdb
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.AspNetCore.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Enrichers.Environment.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Enrichers.Process.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Enrichers.Thread.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Extensions.Hosting.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Extensions.Logging.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Formatting.Compact.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Settings.Configuration.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Sinks.Console.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Sinks.Debug.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\Serilog.Sinks.File.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\System.ServiceProcess.ServiceController.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\bin\Release\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.csproj.AssemblyReference.cache
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.AssemblyInfoInputs.cache
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.AssemblyInfo.cs
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.csproj.CoreCompileInputs.cache
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.csproj.CopyComplete
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\ref\QisWatchdogService.dll
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.pdb
+D:\Source\Traffic\BusLine\QisWatchdogService\QisWatchdogService\QisWatchdogService\obj\Release\net6.0\QisWatchdogService.genruntimeconfig.cache
